@@ -1,0 +1,50 @@
+Privacy Policy
+Last updated: August 3, 2025
+
+AppToysLab built the Coloring Book app as a Free app. This SERVICE is provided by AppToysLab at no cost and is intended for use as is.
+
+This Privacy Policy explains how we collect, use, and disclose information when you use our Service. This app is designed for children and families, and we take privacy seriously.
+
+By using this Service, you agree to the collection and use of information as described in this policy. We do not collect or share personally identifiable information (PII) from children.
+
+Child-Focused Privacy
+
+This app is part of the Google Play "Designed for Families" program and is designed to be safe for children.
+
+We do not collect personal information from children.
+We do not use advertising SDKs that profile users.
+We do not allow any inappropriate content.
+We do not use location data.
+
+Information Collection and Use
+
+We do not require users to enter personal information.
+
+The app may collect limited non-personal usage data (such as crash logs or performance analytics) to help us improve the app. This is done using Google Play Services or similar family-safe tools that comply with Google’s Families policy.
+
+These tools do not collect personal identifiers and are used solely to improve the app’s performance and stability.
+
+Security
+
+We are committed to protecting your privacy. All data collected (if any) is stored securely and used only as necessary to improve the user experience. We do not sell or share any data with third parties.
+
+Cookies
+
+This app does not use cookies.
+
+Links to Other Sites
+
+This app does not include any external links that lead outside of the app or to the web.
+
+Parental Guidance
+
+While this app is safe for children, we recommend that parents and guardians supervise app usage, especially for children under 13. If you believe your child has provided us with any personal information, please contact us — we will delete it immediately.
+
+Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page, and they take effect immediately upon publication.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+https://github.com/AppToysLab/privacy_policy_ColoringBook
